@@ -1,4 +1,4 @@
-![Lorisca Tuuk profile banner](./assets/profile-banner.svg)
+![Lorisca Tuuk profile banner](./profile-banner.svg)
 
 # Hi, I’m Lori
 
