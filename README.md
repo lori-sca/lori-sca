@@ -6,7 +6,7 @@ I've worked across banking, food tech, logistics, and analytics, but I keep gett
 
 I live at the intersection of business and technical language — rigorous enough to follow the technical side, fluent enough to translate it for whoever needs to act on it. That's why I did an MBA in Analytics.
 
-At **Bank Mega**, I rebuilt a fragmented recruiting process into a single source of truth — hiring turnaround down ~**80%**, admin work down ~**60%**, on 10,000+ CVs a year.
+I rebuilt a fragmented recruiting process into a single source of truth — hiring turnaround down ~**80%**, admin work down ~**60%**, on 10,000+ CVs a year.
 
 [![Main site](https://img.shields.io/badge/Main_site-lori--sca.github.io-1E2D42?style=for-the-badge)](https://lori-sca.github.io)
 [![Case studies](https://img.shields.io/badge/Case_studies-lorisca--analytics.github.io-5B7FA6?style=for-the-badge)](https://lorisca-analytics.github.io)
@@ -30,7 +30,7 @@ At **Bank Mega**, I rebuilt a fragmented recruiting process into a single source
 - **[h1b-sponsorship-sql-analysis](https://github.com/lorisca-analytics/h1b-sponsorship-sql-analysis)** — which employers reliably sponsor H-1B business roles, from 3.47M federal filings.
 - **[superstore-discount-ceiling](https://github.com/lorisca-analytics/superstore-discount-ceiling)** — where should we spend the next ad dollar? A Tableau marketing simulation.
 - **[massachusetts-h1b-analysis](https://github.com/lorisca-analytics/massachusetts-h1b-analysis)** — reading the Massachusetts labor market through five years of H-1B data.
-- *More land here as they're published — the Bank Mega systems are being written up.*
+- *More land here as they're published — professional systems are being written up.*
 
 ### Builds — [lorisca-builds.github.io](https://lorisca-builds.github.io)
 
@@ -41,10 +41,10 @@ At **Bank Mega**, I rebuilt a fragmented recruiting process into a single source
 
 ### Selected systems
 
-- **Mass recruitment, one source of truth** (Bank Mega) — turnaround −80%, admin −60%.
-- **Attrition was a promotion problem** (Bank Mega) — turnover down ~15% in 2023, ~17% in 2024.
+- **Mass recruitment, one source of truth** — turnaround −80%, admin −60%.
+- **Attrition was a promotion problem** — turnover down ~15% in 2023, ~17% in 2024.
 - **AI prototype audit** — a demo presented as AI-enabled made no model calls. I proved it, then designed the fix.
-- **Merchant onboarding, standardized** (SiCepat) — six specialists, Looker visibility, onboarding down ~3 days.
+- **Merchant onboarding, standardized** — six specialists, Looker visibility, onboarding down ~3 days.
 
 ## How I think about the work
 
