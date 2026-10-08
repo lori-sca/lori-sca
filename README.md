@@ -30,6 +30,8 @@ I rebuilt a fragmented recruiting process into a single source of truth — hiri
 <!-- REPOS:START:lorisca-analytics -->
 - **[Which Employers Reliably Sponsor H-1B Business Roles](https://github.com/lorisca-analytics/h1b-sponsorship-sql-analysis)** — SQL analysis of 3.47M H-1B filings (2020–2023). The business-role wage premium survives on medians — then breaks honestly when IT managers are excluded.
 - **[Massachusetts H-1B Analysis](https://github.com/lorisca-analytics/massachusetts-h1b-analysis)** — Reading the Massachusetts labor market through five years of public H-1B filing data: which employers sponsor repeatedly, and do business roles pay as well as a…
+- **[Where Should We Spend the Next Ad Dollar?](https://github.com/lorisca-analytics/superstore-discount-ceiling)** — A marketing analytics lead has an ad budget and a room full of managers who read the business through sales volume.
+- **[Delivery Economics](https://github.com/lorisca-analytics/delivery-economics-dashboard)** — A white-glove delivery operation losing $1,156 on 13 orders.
 <!-- REPOS:END -->
 - *More land here as they're published — professional systems are being written up.*
 
