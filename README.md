@@ -12,7 +12,7 @@ At **Bank Mega**, I rebuilt a fragmented recruiting process into a single source
 [![Case studies](https://img.shields.io/badge/Case_studies-lorisca--analytics.github.io-5B7FA6?style=for-the-badge)](https://lorisca-analytics.github.io)
 [![Builds](https://img.shields.io/badge/Builds-lorisca--builds.github.io-4A6A8F?style=for-the-badge)](https://lorisca-builds.github.io)
 
-![Lorisca's GitHub stats](https://github-readme-stats.vercel.app/api?username=lori-sca&show_icons=true&title_color=5B7FA6&text_color=1E2D42&icon_color=5B7FA6&bg_color=FFFFFF&hide_border=true)
+![Lorisca's GitHub stats](https://github-readme-stats.vercel.app/api?username=lori-sca&show_icons=true&hide_rank=true&title_color=5B7FA6&text_color=1E2D42&icon_color=5B7FA6&bg_color=FFFFFF&hide_border=true)
 
 ## Problems I'm useful for
 
