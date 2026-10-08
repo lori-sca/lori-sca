@@ -30,6 +30,7 @@ I rebuilt a fragmented recruiting process into a single source of truth — hiri
 - **[h1b-sponsorship-sql-analysis](https://github.com/lorisca-analytics/h1b-sponsorship-sql-analysis)** — which employers reliably sponsor H-1B business roles, from 3.47M federal filings.
 - **[superstore-discount-ceiling](https://github.com/lorisca-analytics/superstore-discount-ceiling)** — where should we spend the next ad dollar? A Tableau marketing simulation.
 - **[massachusetts-h1b-analysis](https://github.com/lorisca-analytics/massachusetts-h1b-analysis)** — reading the Massachusetts labor market through five years of H-1B data.
+- **[delivery-economics-dashboard](https://github.com/lorisca-analytics/delivery-economics-dashboard)** — losing $1,156 on 13 orders. Routing wasn't the fix — pricing was. Rebuilt from 171 raw order lines.
 - *More land here as they're published — professional systems are being written up.*
 
 ### Builds — [lorisca-builds.github.io](https://lorisca-builds.github.io)
