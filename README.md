@@ -27,17 +27,19 @@ I rebuilt a fragmented recruiting process into a single source of truth — hiri
 
 ### Case studies — [lorisca-analytics.github.io](https://lorisca-analytics.github.io)
 
-- **[h1b-sponsorship-sql-analysis](https://github.com/lorisca-analytics/h1b-sponsorship-sql-analysis)** — which employers reliably sponsor H-1B business roles, from 3.47M federal filings.
-- **[superstore-discount-ceiling](https://github.com/lorisca-analytics/superstore-discount-ceiling)** — where should we spend the next ad dollar? A Tableau marketing simulation.
-- **[massachusetts-h1b-analysis](https://github.com/lorisca-analytics/massachusetts-h1b-analysis)** — reading the Massachusetts labor market through five years of H-1B data.
-- **[delivery-economics-dashboard](https://github.com/lorisca-analytics/delivery-economics-dashboard)** — losing $1,156 on 13 orders. Routing wasn't the fix — pricing was. Rebuilt from 171 raw order lines.
+<!-- REPOS:START:lorisca-analytics -->
+- **[Which Employers Reliably Sponsor H-1B Business Roles](https://github.com/lorisca-analytics/h1b-sponsorship-sql-analysis)** — SQL analysis of 3.47M H-1B filings (2020–2023). The business-role wage premium survives on medians — then breaks honestly when IT managers are excluded.
+- **[Massachusetts H-1B Analysis](https://github.com/lorisca-analytics/massachusetts-h1b-analysis)** — Reading the Massachusetts labor market through five years of public H-1B filing data: which employers sponsor repeatedly, and do business roles pay as well as a…
+<!-- REPOS:END -->
 - *More land here as they're published — professional systems are being written up.*
 
 ### Builds — [lorisca-builds.github.io](https://lorisca-builds.github.io)
 
-- **[muse-adhd-project-manager](https://github.com/lori-sca/muse-adhd-project-manager)** — a scheduled scan catches what you leave midway.
-- **[lori-claude-skills](https://github.com/lorisca-builds/lori-claude-skills)** — twelve Claude skills built from real failures.
-- **[The CMS behind these sites](https://lori-sca.github.io/admin/)** — one admin, three sites, no build step, no monthly bill.
+<!-- REPOS:START:lorisca-builds -->
+- **[ADHD Project Manager](https://github.com/lori-sca/muse-adhd-project-manager)** — A scheduled scan that catches everything I leave midway across AI chats and lands it on one prioritized board.
+- **[Claude Skills](https://github.com/lorisca-builds/lori-claude-skills)** — Twelve skills I built for Claude, each from a failure I got tired of repeating.
+- **[The CMS behind this site](https://github.com/lori-sca/lori-sca.github.io)** — My portfolio runs on plain HTML and JSON — and I edit every word of it from a custom admin panel, no developer needed.
+<!-- REPOS:END -->
 - *New builds get added as they ship.*
 
 ### Selected systems
