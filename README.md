@@ -40,7 +40,7 @@ I rebuilt a fragmented recruiting process into a single source of truth — hiri
 ### Builds — [lorisca-builds.github.io](https://lorisca-builds.github.io)
 
 <!-- REPOS:START:lorisca-builds -->
-- **[ADHD Project Manager](https://github.com/lori-sca/muse-adhd-project-manager)** — A scheduled scan that catches everything I leave midway across AI chats and lands it on one prioritized board.
+- **[ADHD Project Manager](https://github.com/lorisca-builds/muse-adhd-project-manager)** — A scheduled scan that catches everything I leave midway across AI chats and lands it on one prioritized board.
 - **[Claude Skills](https://github.com/lorisca-builds/lori-claude-skills)** — Twelve skills I built for Claude, each from a failure I got tired of repeating.
 - **[The CMS behind this site](https://github.com/lori-sca/lori-sca.github.io)** — My portfolio runs on plain HTML and JSON — and I edit every word of it from a custom admin panel, no developer needed.
 <!-- REPOS:END -->
