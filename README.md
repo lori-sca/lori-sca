@@ -1,18 +1,16 @@
 ![Lorisca Tuuk profile banner](./profile-banner.svg)
 
-# Use the data. Keep the human visible.
+**Operations and people systems, with the analytics to prove they work.**
 
-I've worked across banking, food tech, logistics, and analytics, but I keep getting pulled into the same kind of problem: a process has grown, the information is scattered, and the team spends its time chasing updates instead of making decisions. I trace where the work breaks, rebuild the flow, and leave behind a system people can keep using.
+At Bank Mega I rebuilt a fragmented recruiting process into one source of truth: hiring turnaround down ~**80%**, admin work down ~**60%**, on 10,000+ CVs a year. The same problem keeps finding me across banking, food tech, logistics and analytics. A process grows, the information scatters, and the team spends its time chasing updates instead of deciding. I trace where the work breaks, rebuild the flow, and leave behind a system people keep using.
 
-I live at the intersection of business and technical language — rigorous enough to follow the technical side, fluent enough to translate it for whoever needs to act on it. That's why I did an MBA in Analytics.
+**Open to:** business operations, people analytics, chief of staff and operations roles where the work is still taking shape. Based in San Francisco.
 
-I rebuilt a fragmented recruiting process into a single source of truth — hiring turnaround down ~**80%**, admin work down ~**60%**, on 10,000+ CVs a year.
+**Start here:** [H-1B sponsorship, SQL on 3.47M filings](https://github.com/lorisca-analytics/h1b-sponsorship-sql-analysis) · [Delivery economics model](https://github.com/lorisca-analytics/delivery-economics-dashboard) · [The CMS that runs my sites](https://github.com/lori-sca/lori-sca.github.io)
 
 [![Main site](https://img.shields.io/badge/Main_site-lori--sca.github.io-1E2D42?style=for-the-badge)](https://lori-sca.github.io)
 [![Case studies](https://img.shields.io/badge/Case_studies-lorisca--analytics.github.io-5B7FA6?style=for-the-badge)](https://lorisca-analytics.github.io)
 [![Builds](https://img.shields.io/badge/Builds-lorisca--builds.github.io-4A6A8F?style=for-the-badge)](https://lorisca-builds.github.io)
-
-![Lorisca's GitHub stats](https://github-readme-stats.vercel.app/api?username=lori-sca&show_icons=true&hide_rank=true&title_color=5B7FA6&text_color=1E2D42&icon_color=5B7FA6&bg_color=FFFFFF&hide_border=true)
 
 ## Problems I'm useful for
 
@@ -25,7 +23,7 @@ I rebuilt a fragmented recruiting process into a single source of truth — hiri
 
 ## Work
 
-### Case studies — [lorisca-analytics.github.io](https://lorisca-analytics.github.io)
+### Case studies: [lorisca-analytics.github.io](https://lorisca-analytics.github.io)
 
 <!-- REPOS:START:lorisca-analytics -->
 - **[Which Employers Reliably Sponsor H-1B Business Roles](https://github.com/lorisca-analytics/h1b-sponsorship-sql-analysis)** - SQL analysis of 3.47M H-1B filings (2020–2023). The business-role wage premium survives on medians, then breaks honestly when IT managers are excluded.
@@ -35,31 +33,33 @@ I rebuilt a fragmented recruiting process into a single source of truth — hiri
 - **[The Bounce-Back](https://github.com/lorisca-analytics/bike-venture-turnaround)** - A marketing performance audit that pulled a team out of a Q3 collapse and back to profitability by Q6.
 - **[Gig Worker Referral Platform](https://github.com/lorisca-analytics/gig-worker-referral-platform)** - The bank already banks these people. It just can't see their income.
 <!-- REPOS:END -->
-- *More land here as they're published — professional systems are being written up.*
+- *More land here as they're published. Professional systems are being written up now.*
 
-### Builds — [lorisca-builds.github.io](https://lorisca-builds.github.io)
+### Builds: [lorisca-builds.github.io](https://lorisca-builds.github.io)
 
 <!-- REPOS:START:lorisca-builds -->
-- **[ADHD Project Manager](https://github.com/lorisca-builds/muse-adhd-project-manager)** — A scheduled scan that catches everything I leave midway across AI chats and lands it on one prioritized board.
-- **[Claude Skills](https://github.com/lorisca-builds/lori-claude-skills)** — Twelve skills I built for Claude, each from a failure I got tired of repeating.
-- **[The CMS behind this site](https://github.com/lori-sca/lori-sca.github.io)** — My portfolio runs on plain HTML and JSON — and I edit every word of it from a custom admin panel, no developer needed.
+- **[Open Loops Board](https://github.com/lorisca-builds/muse-adhd-project-manager)** - A scheduled scan that catches everything I leave midway across AI chats and lands it on one prioritized board.
+- **[Claude Skills](https://github.com/lorisca-builds/lori-claude-skills)** - Twelve skills I built for Claude, each from a failure I got tired of repeating.
+- **[The CMS behind this site](https://github.com/lori-sca/lori-sca.github.io)** - My portfolio runs on plain HTML and JSON, and I edit every word of it from a custom admin panel, no developer needed.
 <!-- REPOS:END -->
 - *New builds get added as they ship.*
 
 ### Selected systems
 
-- **Mass recruitment, one source of truth** — turnaround −80%, admin −60%.
-- **Attrition was a promotion problem** — turnover down ~15% in 2023, ~17% in 2024.
-- **AI prototype audit** — a demo presented as AI-enabled made no model calls. I proved it, then designed the fix.
-- **Merchant onboarding, standardized** — six specialists, Looker visibility, onboarding down ~3 days.
+- **Mass recruitment, one source of truth:** turnaround −80%, admin −60%.
+- **Attrition was a promotion problem:** turnover down ~15% in 2023, ~17% in 2024.
+- **AI prototype audit:** a demo presented as AI-enabled made no model calls. I proved it, then designed the fix.
+- **Merchant onboarding, standardized:** six specialists, Looker visibility, onboarding down ~3 days.
 
 ## How I think about the work
 
 I care whether a metric changes a decision and whether a workflow still works after its builder leaves. In people analytics, I use data for insight rather than surveillance. In AI work, I check what the system actually does before calling it intelligent.
 
+I work between business and technical language: rigorous enough to follow the technical side, fluent enough to translate it for whoever has to act on it. That's why I did an MBA in Analytics.
+
 ## Stack
 
-Tools-agnostic by principle — these are the current defaults:
+I pick tools on principle, not loyalty. Current defaults:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-1E2D42?style=flat-square)
@@ -73,4 +73,11 @@ Tools-agnostic by principle — these are the current defaults:
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 ![Smartsheet](https://img.shields.io/badge/Smartsheet-1E2D42?style=flat-square)
 
-Based in **San Francisco** — open to People Operations, Talent Management, People Analytics, and Business Operations roles where the work is still taking shape.
+AI-native workflow:
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-1E2D42?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4A6A8F?style=flat-square&logo=googlegemini&logoColor=white)
+![Perplexity](https://img.shields.io/badge/Perplexity-1E2D42?style=flat-square&logo=perplexity&logoColor=white)
+![Lovable](https://img.shields.io/badge/Lovable-5B7FA6?style=flat-square)
+![Wispr Flow](https://img.shields.io/badge/Wispr_Flow-4A6A8F?style=flat-square)
