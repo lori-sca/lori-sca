@@ -6,7 +6,7 @@ At Bank Mega I rebuilt a fragmented recruiting process into one source of truth:
 
 **Open to:** business operations, people analytics, chief of staff and operations roles where the work is still taking shape. Based in San Francisco.
 
-**Start here:** [H-1B sponsorship, SQL on 3.47M filings](https://github.com/lorisca-analytics/h1b-sponsorship-sql-analysis) · [Delivery economics model](https://github.com/lorisca-analytics/delivery-economics-dashboard) · [The CMS that runs my sites](https://github.com/lori-sca/lori-sca.github.io)
+**Start here:** [One intake door and mass interview engine](https://github.com/lorisca-analytics/recruitment-front-door) · [AI everywhere, without automating the moat](https://github.com/lorisca-analytics/relay-ai-transformation) · [The CMS that runs my sites](https://github.com/lori-sca/lori-sca.github.io)
 
 [![Main site](https://img.shields.io/badge/Main_site-lori--sca.github.io-1E2D42?style=for-the-badge)](https://lori-sca.github.io)
 [![Case studies](https://img.shields.io/badge/Case_studies-lorisca--analytics.github.io-5B7FA6?style=for-the-badge)](https://lorisca-analytics.github.io)
