@@ -6,7 +6,7 @@ At Bank Mega I rebuilt a fragmented recruiting process into one source of truth:
 
 **Open to:** business operations, people analytics, chief of staff and operations roles where the work is still taking shape. Based in San Francisco.
 
-**Start here:** [One intake door and mass interview engine](https://github.com/lorisca-analytics/recruitment-front-door) · [AI everywhere, without automating the moat](https://github.com/lorisca-analytics/relay-ai-transformation) · [Why accidents rose at every site](https://github.com/lorisca-analytics/people-analytics-r)
+**Start here:** [One intake door and mass interview engine](https://github.com/lorisca-analytics/recruitment-front-door) · [AI everywhere, without automating the moat](https://github.com/lorisca-analytics/relay-ai-transformation) · [Attrition was a promotion problem](https://github.com/lorisca-analytics/sales-attrition-evidence-layer)
 
 [![Main site](https://img.shields.io/badge/Main_site-lori--sca.github.io-1E2D42?style=for-the-badge)](https://lori-sca.github.io)
 [![Case studies](https://img.shields.io/badge/Case_studies-lorisca--analytics.github.io-5B7FA6?style=for-the-badge)](https://lorisca-analytics.github.io)
