@@ -1,7 +1,8 @@
 name: Sync case study list
 
-# Rebuilds the case-study list in README.md (the REPOS:START:lorisca-analytics
-# block) from the Work hub's data/lanes.json. Runs every hour and on demand.
+# Rebuilds the two project lists in README.md: REPOS:START:lorisca-analytics
+# from the Work hub's data/lanes.json, and REPOS:START:lorisca-builds from the
+# Builds hub's data/projects.json. Runs every hour and on demand.
 # Writes a commit only when the list changed.
 #
 # scripts/sync-profile.mjs is a copy of the one in lorisca-analytics/.github,
