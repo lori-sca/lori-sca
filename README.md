@@ -36,6 +36,7 @@ At Bank Mega I rebuilt a fragmented recruiting process into one source of truth:
 - **[Delivery Economics](https://github.com/lorisca-analytics/delivery-economics-dashboard)** - A white-glove delivery operation losing $1,156 on 13 orders.
 - **[The Bounce-Back](https://github.com/lorisca-analytics/bike-venture-turnaround)** - A marketing performance audit that pulled a team out of a Q3 collapse and back to profitability by Q6.
 - **[AI everywhere, without automating the moat](https://github.com/lorisca-analytics/relay-ai-transformation)** - The board wanted AI everywhere. The people most exposed to it were the ones who held the community together, so I designed who owns each warning and where AI may act.
+- **[Scoring a hardware launch before planning it](https://github.com/lorisca-analytics/hardware-launch-complexity)** - A mask startup planned a five-city launch in 164 days across three companies.
 - **[Gig Worker Referral Platform](https://github.com/lorisca-analytics/gig-worker-referral-platform)** - The bank already banks these people. It just can't see their income.
 <!-- REPOS:END -->
 - *More land here as they're published. Professional systems are being written up now.*
