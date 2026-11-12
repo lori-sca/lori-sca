@@ -52,7 +52,7 @@ At Bank Mega I rebuilt a fragmented recruiting process into one source of truth:
 ### Selected systems
 
 - **Mass recruitment, one source of truth:** turnaround −80%, admin −60%.
-- **Attrition was a promotion problem:** turnover down ~15% in 2023, ~17% in 2024.
+- **[Attrition was a promotion problem](https://github.com/lorisca-analytics/sales-attrition-evidence-layer):** I cut department turnover about 15% (2023) and 17% (2024).
 - **AI prototype audit:** a demo presented as AI-enabled made no model calls. I proved it, then designed the fix.
 - **Merchant onboarding, standardized:** six specialists, Looker visibility, onboarding down ~3 days.
 
