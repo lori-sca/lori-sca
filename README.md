@@ -43,9 +43,9 @@ At Bank Mega I rebuilt a fragmented recruiting process into one source of truth:
 ### Builds: [lorisca-builds.github.io](https://lorisca-builds.github.io)
 
 <!-- REPOS:START:lorisca-builds -->
-- **[Open Loops Board](https://github.com/lorisca-builds/muse-adhd-project-manager)** - A scheduled scan that catches everything I leave midway across AI chats and lands it on one prioritized board.
+- **[The CMS behind this site](https://github.com/lori-sca/lori-sca.github.io)** - My portfolio runs on plain HTML and JSON. I edit every word of it from a custom admin panel, no developer needed.
+- **[Open Loops Board](https://github.com/lorisca-builds/muse-adhd-project-manager)** - A scheduled scan that catches everything I leave midway across AI chats and lands it on one prioritized board (Yes, I have ADHD haha).
 - **[Claude Skills](https://github.com/lorisca-builds/lori-claude-skills)** - Twelve skills I built for Claude, each from a failure I got tired of repeating.
-- **[The CMS behind this site](https://github.com/lori-sca/lori-sca.github.io)** - My portfolio runs on plain HTML and JSON, and I edit every word of it from a custom admin panel, no developer needed.
 <!-- REPOS:END -->
 - *New builds get added as they ship.*
 
